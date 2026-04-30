@@ -1,0 +1,248 @@
+[
+  {
+    "texto": "Completar el proyecto de Python con tkinter - Implementar todas las funcionalidades solicitadas por el cliente",
+    "categoria": "Trabajo",
+    "prioridad": "Alta",
+    "fecha_vencimiento": "2026-04-15",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Diseñar la interfaz principal",
+        "completada": true
+      },
+      {
+        "texto": "Implementar guardado en JSON",
+        "completada": true
+      },
+      {
+        "texto": "Añadir sistema de prioridades",
+        "completada": false
+      },
+      {
+        "texto": "Crear filtros de búsqueda",
+        "completada": false
+      },
+      {
+        "texto": "Probar todas las funcionalidades",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Hacer ejercicio - Rutina de entrenamiento completa",
+    "categoria": "Salud",
+    "prioridad": "Alta",
+    "fecha_vencimiento": "2026-04-11",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Cardio 30 minutos",
+        "completada": false
+      },
+      {
+        "texto": "Ejercicios de fuerza",
+        "completada": false
+      },
+      {
+        "texto": "Estiramientos 10 min",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Revisar el presupuesto mensual y pagar facturas",
+    "categoria": "Finanzas",
+    "prioridad": "Alta",
+    "fecha_vencimiento": "2026-04-10",
+    "completada": true,
+    "subtareas": [
+      {
+        "texto": "Revisar gastos de marzo",
+        "completada": true
+      },
+      {
+        "texto": "Pagar factura de luz",
+        "completada": true
+      },
+      {
+        "texto": "Pagar internet",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Preparar presentación para reunión con equipo",
+    "categoria": "Trabajo",
+    "prioridad": "Alta",
+    "fecha_vencimiento": "2026-04-12",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Crear diapositivas",
+        "completada": false
+      },
+      {
+        "texto": "Preparar ejemplos",
+        "completada": false
+      },
+      {
+        "texto": "Ensayar presentación",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Llamar al médico para revisión anual",
+    "categoria": "Salud",
+    "prioridad": "Alta",
+    "fecha_vencimiento": "2026-04-09",
+    "completada": true,
+    "subtareas": [],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Estudiar Python avanzado - Decoradores y generadores",
+    "categoria": "Estudios",
+    "prioridad": "Media",
+    "fecha_vencimiento": "",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Ver tutoriales de decoradores",
+        "completada": false
+      },
+      {
+        "texto": "Practicar con ejercicios",
+        "completada": false
+      },
+      {
+        "texto": "Crear proyecto de ejemplo",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Comprar víveres para la semana",
+    "categoria": "Hogar",
+    "prioridad": "Media",
+    "fecha_vencimiento": "2026-04-11",
+    "completada": true,
+    "subtareas": [
+      {
+        "texto": "Frutas y verduras",
+        "completada": true
+      },
+      {
+        "texto": "Proteínas (carne/pescado)",
+        "completada": true
+      },
+      {
+        "texto": "Productos de limpieza",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Configurar backup automático de documentos importantes",
+    "categoria": "Trabajo",
+    "prioridad": "Media",
+    "fecha_vencimiento": "2026-04-14",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Seleccionar carpeta origen",
+        "completada": false
+      },
+      {
+        "texto": "Configurar destino backup",
+        "completada": false
+      },
+      {
+        "texto": "Programar tarea automática",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Aprender a usar Docker para desarrollo",
+    "categoria": "Estudios",
+    "prioridad": "Media",
+    "fecha_vencimiento": "2026-04-30",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Instalar Docker",
+        "completada": false
+      },
+      {
+        "texto": "Crear primer contenedor",
+        "completada": false
+      },
+      {
+        "texto": "Aprender docker-compose",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Leer 'Clean Code' - Capítulos 5 al 8",
+    "categoria": "Personal",
+    "prioridad": "Baja",
+    "fecha_vencimiento": "2026-04-20",
+    "completada": false,
+    "subtareas": [],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Organizar escritorio y archivos digitales",
+    "categoria": "Hogar",
+    "prioridad": "Baja",
+    "fecha_vencimiento": "",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Limpiar escritorio físico",
+        "completada": false
+      },
+      {
+        "texto": "Organizar carpetas en PC",
+        "completada": false
+      },
+      {
+        "texto": "Eliminar archivos duplicados",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  },
+  {
+    "texto": "Planificar vacaciones de verano en cancun",
+    "categoria": "Personal",
+    "prioridad": "Baja",
+    "fecha_vencimiento": "2026-05-15",
+    "completada": false,
+    "subtareas": [
+      {
+        "texto": "Investigar destinos",
+        "completada": false
+      },
+      {
+        "texto": "Comparar precios de vuelos",
+        "completada": false
+      },
+      {
+        "texto": "Reservar alojamiento",
+        "completada": false
+      }
+    ],
+    "fecha_creacion": "2026-04-12 11:09:10"
+  }
+]
